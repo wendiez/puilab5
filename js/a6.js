@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', function(){
     //document.getElementById('green').addEventListener('click', changecolor);
     
 
-    //change different color of product pictures
+//////////////////change different color of product pictures
     let presschangecolor = document.querySelectorAll('.oval');
     //console.log(typeof'presschangecolor');
     //ALWAYS do loop FOR class!!!
@@ -42,8 +42,10 @@ document.addEventListener('DOMContentLoaded', function(){
             //console.log(">>"+ event.target);        
         });
     }    
-    //console.log(typeof presspicture);
-    //console.log( Array.from(presschangecolor));
+    console.log(typeof presschangecolor);
+    console.log(Array.from(presschangecolor));
+    
+    
     function getclicked_classindex(){
         presschangecolor.forEach(function(check){
             check.addEventListener('click', checkIndex);
@@ -58,16 +60,20 @@ document.addEventListener('DOMContentLoaded', function(){
         }
 
 
-
-    let presschangesize = document.querySelectorAll('.size-selection');
-    console.log(typeof'presschangesize');
+///////////////////////////////
+    let presschangesizenodelist = document.querySelectorAll('.size-selection');
+    let presschangesize = Array.from(presschangesizenodelist)
+    console.log(presschangesize);
+    //console.log(presschangesize.length);
+    //console.log(Array.from(presschangesize));   
     //ALWAYS do loop FOR class!!!
 
     for (var i = 0; i < presschangesize.length; i++) { 
         presschangesize[i].addEventListener('click', function(event) {
             getclicked_classindex2(); //get the index of clicked ovals
-            console.log(">>>>"+ event.target.className);
-           //console.log(">>"+ event.target);        
+            console.log(">>>>"+ event.target.parentElement.className);
+           //console.log(">>"+ event.target);    
+            
         });
     }
 
@@ -75,13 +81,15 @@ document.addEventListener('DOMContentLoaded', function(){
         presschangesize.forEach(function(check){
             check.addEventListener('click', checkIndex);
           })
+        
         function checkIndex(event){
-            //console.log( Array.from(presschangecolor).indexOf(event.target) );
-            let x = Array.from(presschangesize).indexOf(event.target)+1 //clicke on color ovals
+            //console.log( Array.from(presschangesize).indexOf(event.target.parentElement) );
+            let x = Array.from(presschangesize).indexOf(event.target.parentElement) //clicke on color ovals
             updatesizetext(x); //push the index to update color
 
           }
         }
+    
 
 
 

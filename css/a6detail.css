@@ -378,7 +378,7 @@ div {
 
 
 
-.a6detail .size-selection .sizess {
+.a6detail   .sizess {
   background-color    : rgba(255,255,255,0.0);
   top                 : 683px;
   height              : 63px;
@@ -390,12 +390,12 @@ div {
   transition          : all 0.2s ease-in-out;
 }
 
-.a6detail .size-selection .sizess:hover {
+.a6detail   .sizess:hover {
   transform           : translate(0, -5px);
 
 }
 
-.a6detail .size-selection .sizess .rectangle {
+.a6detail   .sizess .rectangle {
   background-color    : rgba(255, 255, 255, 1.0);
   top                 : 2px;
   height              : 59px;
@@ -407,12 +407,11 @@ div {
   border-style        : solid;
   border-width        : 4px;
   border-color        : rgba(0, 0, 0, 1.0);
-  pointer-events:none;
     
      
       
 }
-.a6detail .size-selection  .sizess .ss {
+.a6detail    .sizess .ss {
   background-color    : rgba(255,255,255,0.0);
   top                 : 15px;
   height              : auto;
@@ -427,11 +426,10 @@ div {
   color               : rgba(0, 0, 0, 1.0);
   text-align          : center;
   line-height         : 33.0px;
-  pointer-events:none;
 }
 
 
-.a6detail .size-selection .sizes {
+.a6detail   .sizes {
   background-color    : rgba(255,255,255,0.0);
   top                 : 683px;
   height              : 63px;
@@ -445,13 +443,13 @@ div {
       
   transition          : all 0.2s ease-in-out;
 }
-.a6detail .size-selection .sizes:hover {
+.a6detail   .sizes:hover {
   transform           : translate(0, -5px);
 }
 
     
 
-.a6detail .size-selection .sizes .rectangle {
+.a6detail   .sizes .rectangle {
   background-color    : rgba(255, 255, 255, 1.0);
   top                 : 2px;
   height              : 59px;
@@ -463,12 +461,12 @@ div {
   border-style        : solid;
   border-width        : 4px;
   border-color        : rgba(0, 0, 0, 1.0);
-  pointer-events:none;
+
     
      
       
 }
-.a6detail .size-selection .sizes .ss {
+.a6detail   .sizes .ss {
   background-color    : rgba(255,255,255,0.0);
   top                 : 15px;
   height              : auto;
@@ -486,9 +484,9 @@ div {
   color               : rgba(0, 0, 0, 1.0);
   text-align          : center;
   line-height         : 33.0px;
-  pointer-events:none;
+
 }
-.a6detail .size-selection .sizem {
+.a6detail   .sizem {
   background-color    : rgba(255,255,255,0.0);
   top                 : 683px;
   height              : 63px;
@@ -499,11 +497,11 @@ div {
   overflow            : hidden;    
   transition          : all 0.2s ease-in-out;
 }
-.a6detail .size-selection .sizem:hover {
+.a6detail   .sizem:hover {
   transform           : translate(0, -5px);
 }
 
-.a6detail .size-selection .sizem .rectangle {
+.a6detail   .sizem .rectangle {
   background-color    : rgba(255, 255, 255, 1.0);
   top                 : 2px;
   height              : 59px;
@@ -519,7 +517,7 @@ div {
      
       
 }
-.a6detail .size-selection .sizem .ss {
+.a6detail   .sizem .ss {
   background-color    : rgba(255,255,255,0.0);
   top                 : 15px;
   height              : auto;
@@ -538,7 +536,7 @@ div {
   text-align          : center;
   line-height         : 33.0px;
 }
-.a6detail .size-selection .sizel {
+.a6detail   .sizel {
   background-color    : rgba(255,255,255,0.0);
   top                 : 683px;
   height              : 63px;
@@ -552,11 +550,11 @@ div {
       
   transition          : all 0.2s ease-in-out;
 }
-.a6detail .size-selection .sizel:hover {
+.a6detail   .sizel:hover {
   transform           : translate(0, -5px);
 }
 
-.a6detail .size-selection .sizel .rectangle {
+.a6detail   .sizel .rectangle {
   background-color    : rgba(255, 255, 255, 1.0);
   top                 : 2px;
   height              : 59px;
@@ -572,7 +570,7 @@ div {
      
       
 }
-.a6detail .size-selection .sizel .ss {
+.a6detail   .sizel .ss {
   background-color    : rgba(255,255,255,0.0);
   top                 : 15px;
   height              : auto;
