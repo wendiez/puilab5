@@ -1,0 +1,16 @@
+//update an image
+
+
+.a6detail .slide-1:hover, .a6detail .slide-2:hover, .a6detail .slide-3:hover, .a6detail .slide-4:hover {
+  background-color: rgba(0,0,0,0.8);
+}
+
+
+<div id= slide-0-big class="slide-0">
+                <img src="./img/6detail-bitmap-1-1.png" class="bitmap3" />
+            </div>
+
+
+            slide-0 bitmap
+
+            

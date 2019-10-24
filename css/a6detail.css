@@ -32,6 +32,10 @@ div {
 div {
   -webkit-text-size-adjust: none;
 }
+
+
+
+
 .a6detail .quantadjust {
   background-color    : rgba(255,255,255,0.0);
   top                 : 775px;
@@ -40,9 +44,9 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 951px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
+   
+    
+      
 }
 .a6detail .quantadjust .clickminus {
   background-color    : rgba(255,255,255,0.0);
@@ -52,9 +56,9 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
+   
+    
+      
   transition          : all 0.2s ease-in-out;
 }
 .a6detail .quantadjust .clickminus:hover {
@@ -68,9 +72,9 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
+   
+    
+      
 }
 .a6detail .quantadjust .clickminus .label1 {
   background-color    : rgba(255,255,255,0.0);
@@ -80,9 +84,9 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 10px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
+   
+    
+      
   font-family         : "Open Sans", Helvetica, Arial, serif;
   font-weight         : 700;
   font-style          : normal;
@@ -99,9 +103,9 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 171px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
+   
+    
+      
   transition          : all 0.2s ease-in-out;
 }
 .a6detail .quantadjust .clickadd:hover {
@@ -115,9 +119,9 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
+   
+    
+      
 }
 .a6detail .quantadjust .clickadd .label1 {
   background-color    : rgba(255,255,255,0.0);
@@ -127,9 +131,9 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 6px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
+   
+    
+      
   font-family         : "Open Sans", Helvetica, Arial, serif;
   font-weight         : 700;
   font-style          : normal;
@@ -147,9 +151,9 @@ div {
   margin              : 0;
   left                : 44px;
   overflow            : hidden;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
+   
+    
+      
 }
 .a6detail .quantadjust .sizel1 .background {
   background-color    : rgba(255,255,255,0.0);
@@ -159,9 +163,9 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
+   
+    
+      
 }
 .a6detail .quantadjust .sizel1 .rectangle {
   background-color    : rgba(255, 255, 255, 1.0);
@@ -175,9 +179,9 @@ div {
   border-style        : solid;
   border-width        : 4px;
   border-color        : rgba(0, 0, 0, 1.0);
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
+   
+    
+      
 }
 .a6detail .quantadjust .sizel1 .ss {
   background-color    : rgba(255,255,255,0.0);
@@ -187,9 +191,9 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 52px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
+   
+    
+      
   font-family         : "Open Sans", Helvetica, Arial, serif;
   font-weight         : 600;
   font-style          : normal;
@@ -206,9 +210,9 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 720px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
+   
+    
+      
   font-family         : "Open Sans", Helvetica, Arial, serif;
   font-weight         : 600;
   font-style          : normal;
@@ -225,9 +229,9 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 720px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
+   
+    
+      
   font-family         : "Open Sans", Helvetica, Arial, serif;
   font-weight         : 600;
   font-style          : normal;
@@ -244,9 +248,9 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 720px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
+   
+    
+      
   font-family         : "Open Sans", Helvetica, Arial, serif;
   font-weight         : 600;
   font-style          : normal;
@@ -263,9 +267,9 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 720px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
+   
+    
+      
   font-family         : "Open Sans", Helvetica, Arial, serif;
   font-weight         : 600;
   font-style          : normal;
@@ -282,9 +286,9 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 855px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
+   
+    
+      
   font-family         : "Open Sans", Helvetica, Arial, serif;
   font-weight         : 600;
   font-style          : normal;
@@ -301,9 +305,9 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 720px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
+   
+    
+      
   font-family         : "Open Sans", Helvetica, Arial, serif;
   font-weight         : 700;
   font-style          : normal;
@@ -312,55 +316,69 @@ div {
   text-align          : left;
   line-height         : 65.0px;
 }
-.a6detail .oval {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 551px;
-  height              : 63px;
-  width               : 63px;
+
+.a6detail .grid_oval {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+
+  height: 82px;
+  width: 258px;
   position            : absolute;
   margin              : 0;
-  left                : 732px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-  transition          : all 0.2s ease-in-out;
+  left                : 720px;
+  top                 : 542px;
+  
+}
+
+.a6detail .oval {
+  margin              : auto;
+  height: 55px;
+  width: 55px;
+  background: #B9BF05;
+  border: 4px solid #000000;
+  border-radius: 50%;
+  transition: all 0.2s ease-in-out;
+
 }
 .a6detail .oval:hover {
   transform           : translate(0, -5px);
 }
+
+.a6detail .oval:active {
+  border: 24px solid #ffffff;
+}
 .a6detail .oval1 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 551px;
-  height              : 63px;
-  width               : 63px;
-  position            : absolute;
-  margin              : 0;
-  left                : 815px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-  transition          : all 0.2s ease-in-out;
+  margin              : auto;
+  height: 55px;
+  width: 55px;
+  background: #736B02;
+  border: 4px solid #000000;
+  border-radius: 50%;
+  transition: all 0.2s ease-in-out;
 }
 .a6detail .oval1:hover {
   transform           : translate(0, -5px);
 }
 .a6detail .oval2 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 551px;
-  height              : 63px;
-  width               : 63px;
-  position            : absolute;
-  margin              : 0;
-  left                : 899px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-  transition          : all 0.2s ease-in-out;
+  margin              : auto;
+  height: 55px;
+  width: 55px;
+  background: #0267A6;
+  border: 4px solid #000000;
+  border-radius: 50%;
+  transition: all 0.2s ease-in-out;
 }
 .a6detail .oval2:hover {
   transform           : translate(0, -5px);
 }
-.a6detail .sizess {
+
+
+
+
+
+.a6detail .size-selection .sizess {
   background-color    : rgba(255,255,255,0.0);
   top                 : 683px;
   height              : 63px;
@@ -369,27 +387,15 @@ div {
   margin              : 0;
   left                : 720px;
   overflow            : hidden;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
   transition          : all 0.2s ease-in-out;
 }
-.a6detail .sizess:hover {
+
+.a6detail .size-selection .sizess:hover {
   transform           : translate(0, -5px);
+
 }
-.a6detail .sizess .background {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 0px;
-  height              : 63px;
-  width               : 120px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.a6detail .sizess .rectangle {
+
+.a6detail .size-selection .sizess .rectangle {
   background-color    : rgba(255, 255, 255, 1.0);
   top                 : 2px;
   height              : 59px;
@@ -401,11 +407,12 @@ div {
   border-style        : solid;
   border-width        : 4px;
   border-color        : rgba(0, 0, 0, 1.0);
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
+  pointer-events:none;
+    
+     
+      
 }
-.a6detail .sizess .ss {
+.a6detail .size-selection  .sizess .ss {
   background-color    : rgba(255,255,255,0.0);
   top                 : 15px;
   height              : auto;
@@ -413,9 +420,6 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 46px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
   font-family         : "Open Sans", Helvetica, Arial, serif;
   font-weight         : 600;
   font-style          : normal;
@@ -423,8 +427,11 @@ div {
   color               : rgba(0, 0, 0, 1.0);
   text-align          : center;
   line-height         : 33.0px;
+  pointer-events:none;
 }
-.a6detail .sizes {
+
+
+.a6detail .size-selection .sizes {
   background-color    : rgba(255,255,255,0.0);
   top                 : 683px;
   height              : 63px;
@@ -433,27 +440,18 @@ div {
   margin              : 0;
   left                : 858px;
   overflow            : hidden;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
+    
+     
+      
   transition          : all 0.2s ease-in-out;
 }
-.a6detail .sizes:hover {
+.a6detail .size-selection .sizes:hover {
   transform           : translate(0, -5px);
 }
-.a6detail .sizes .background {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 0px;
-  height              : 63px;
-  width               : 120px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.a6detail .sizes .rectangle {
+
+    
+
+.a6detail .size-selection .sizes .rectangle {
   background-color    : rgba(255, 255, 255, 1.0);
   top                 : 2px;
   height              : 59px;
@@ -465,11 +463,12 @@ div {
   border-style        : solid;
   border-width        : 4px;
   border-color        : rgba(0, 0, 0, 1.0);
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
+  pointer-events:none;
+    
+     
+      
 }
-.a6detail .sizes .ss {
+.a6detail .size-selection .sizes .ss {
   background-color    : rgba(255,255,255,0.0);
   top                 : 15px;
   height              : auto;
@@ -477,9 +476,9 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 53px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
+    
+     
+      
   font-family         : "Open Sans", Helvetica, Arial, serif;
   font-weight         : 600;
   font-style          : normal;
@@ -487,8 +486,9 @@ div {
   color               : rgba(0, 0, 0, 1.0);
   text-align          : center;
   line-height         : 33.0px;
+  pointer-events:none;
 }
-.a6detail .sizem {
+.a6detail .size-selection .sizem {
   background-color    : rgba(255,255,255,0.0);
   top                 : 683px;
   height              : 63px;
@@ -496,28 +496,14 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 996px;
-  overflow            : hidden;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
+  overflow            : hidden;    
   transition          : all 0.2s ease-in-out;
 }
-.a6detail .sizem:hover {
+.a6detail .size-selection .sizem:hover {
   transform           : translate(0, -5px);
 }
-.a6detail .sizem .background {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 0px;
-  height              : 63px;
-  width               : 120px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.a6detail .sizem .rectangle {
+
+.a6detail .size-selection .sizem .rectangle {
   background-color    : rgba(255, 255, 255, 1.0);
   top                 : 2px;
   height              : 59px;
@@ -529,11 +515,11 @@ div {
   border-style        : solid;
   border-width        : 4px;
   border-color        : rgba(0, 0, 0, 1.0);
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
+    
+     
+      
 }
-.a6detail .sizem .ss {
+.a6detail .size-selection .sizem .ss {
   background-color    : rgba(255,255,255,0.0);
   top                 : 15px;
   height              : auto;
@@ -541,9 +527,9 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 48px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
+    
+     
+      
   font-family         : "Open Sans", Helvetica, Arial, serif;
   font-weight         : 600;
   font-style          : normal;
@@ -552,7 +538,7 @@ div {
   text-align          : center;
   line-height         : 33.0px;
 }
-.a6detail .sizel {
+.a6detail .size-selection .sizel {
   background-color    : rgba(255,255,255,0.0);
   top                 : 683px;
   height              : 63px;
@@ -561,27 +547,16 @@ div {
   margin              : 0;
   left                : 1134px;
   overflow            : hidden;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
+    
+     
+      
   transition          : all 0.2s ease-in-out;
 }
-.a6detail .sizel:hover {
+.a6detail .size-selection .sizel:hover {
   transform           : translate(0, -5px);
 }
-.a6detail .sizel .background {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 0px;
-  height              : 63px;
-  width               : 120px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.a6detail .sizel .rectangle {
+
+.a6detail .size-selection .sizel .rectangle {
   background-color    : rgba(255, 255, 255, 1.0);
   top                 : 2px;
   height              : 59px;
@@ -593,11 +568,11 @@ div {
   border-style        : solid;
   border-width        : 4px;
   border-color        : rgba(0, 0, 0, 1.0);
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
+    
+     
+      
 }
-.a6detail .sizel .ss {
+.a6detail .size-selection .sizel .ss {
   background-color    : rgba(255,255,255,0.0);
   top                 : 15px;
   height              : auto;
@@ -605,9 +580,9 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 53px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
+    
+     
+      
   font-family         : "Open Sans", Helvetica, Arial, serif;
   font-weight         : 600;
   font-style          : normal;
@@ -624,9 +599,9 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 720px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
+    
+     
+      
   font-family         : "Open Sans", Helvetica, Arial, serif;
   font-weight         : 700;
   font-style          : normal;
@@ -635,6 +610,7 @@ div {
   text-align          : left;
   line-height         : 33.0px;
 }
+
 .a6detail .quantity {
   background-color    : rgba(255,255,255,0.0);
   top                 : 782px;
@@ -643,9 +619,9 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 720px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
+   
+    
+      
   font-family         : "Open Sans", Helvetica, Arial, serif;
   font-weight         : 700;
   font-style          : normal;
@@ -654,6 +630,7 @@ div {
   text-align          : left;
   line-height         : 33.0px;
 }
+
 .a6detail .colornavyblue {
   background-color    : rgba(255,255,255,0.0);
   top                 : 497px;
@@ -662,9 +639,6 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 720px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
   font-family         : "Open Sans", Helvetica, Arial, serif;
   font-weight         : 700;
   font-style          : normal;
@@ -672,7 +646,15 @@ div {
   color               : rgba(0, 0, 0, 1.0);
   text-align          : left;
   line-height         : 33.0px;
+  transform: scale(1.0);
+
+
 }
+
+
+
+
+
 .a6detail .hasslefreeoureas {
   background-color    : rgba(255,255,255,0.0);
   top                 : 1090px;
@@ -681,9 +663,9 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 720px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
+   
+    
+      
   font-family         : "Open Sans", Helvetica, Arial, serif;
   font-weight         : 400;
   font-style          : normal;
@@ -694,15 +676,15 @@ div {
 }
 .a6detail .addtocart {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 1532px;
+  top                 : 862px;
   height              : 97px;
   width               : 398px;
   position            : absolute;
   margin              : 0;
-  left                : 960px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
+  left                : 862px;
+   
+    
+      
   transition          : all 0.2s ease-in-out;
 }
 .a6detail .addtocart:hover {
@@ -716,9 +698,9 @@ div {
   position            : relative;
   margin              : 0;
   left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
+   
+    
+      
 }
 .a6detail .addtocart .rectanglecopy6 .rectangle {
   background-color    : rgba(185, 191, 5, 1.0);
@@ -729,9 +711,9 @@ div {
   margin              : 0;
   left                : 0px;
   border-radius       : 48px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
+   
+    
+      
 }
 .a6detail .addtocart .rectanglecopy6 .addtocart1 {
   background-color    : rgba(255,255,255,0.0);
@@ -741,9 +723,9 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 75px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
+   
+    
+      
   font-family         : "Open Sans", Helvetica, Arial, serif;
   font-weight         : 700;
   font-style          : normal;
@@ -760,9 +742,9 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 978px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
+   
+    
+      
   transition          : all 0.2s ease-in-out;
 }
 .a6detail .underlinebutton:hover {
@@ -776,9 +758,9 @@ div {
   position            : relative;
   margin              : 0;
   left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
+   
+    
+      
 }
 .a6detail .underlinebutton .underlinebutton1 .product1price {
   background-color    : rgba(255,255,255,0.0);
@@ -788,9 +770,9 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
+   
+    
+      
   font-family         : "Open Sans", Helvetica, Arial, serif;
   font-weight         : 700;
   font-style          : normal;
@@ -807,11 +789,13 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 59px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
+   
+    
+      
 }
-.a6detail .picl {
+
+
+.a6detail .slide-0 {
   background-color    : rgba(130, 184, 217, 1.0);
   top                 : 317px;
   height              : 429px;
@@ -820,23 +804,11 @@ div {
   margin              : 0;
   left                : 135px;
   overflow            : hidden;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
+   
+    
+      
 }
-.a6detail .picl .rectangle {
-  background-color    : rgba(130, 184, 217, 1.0);
-  top                 : 0px;
-  height              : 429px;
-  width               : 535px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.a6detail .picl .bitmap3 {
+.a6detail .slide-0 .bitmap3 {
   background-color    : rgba(255,255,255,0.0);
   top                 : -14px;
   height              : 440px;
@@ -844,11 +816,17 @@ div {
   position            : absolute;
   margin              : 0;
   left                : -61px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
+   
+    
+      
 }
-.a6detail .bigpic {
+
+.a6detail .slide-0 .bitmap3:active {
+  transform: scale(1.1);
+}
+
+
+.a6detail .slide-4 {
   background-color    : rgba(130, 184, 217, 1.0);
   top                 : 775px;
   height              : 110px;
@@ -857,11 +835,11 @@ div {
   margin              : 0;
   left                : 549px;
   overflow            : hidden;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
+   
+    
+      
 }
-.a6detail .bigpic .mask {
+.a6detail .slide-4 .mask {
   background-color    : rgba(130, 184, 217, 1.0);
   top                 : 0px;
   height              : 110px;
@@ -869,11 +847,11 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
+   
+    
+      
 }
-.a6detail .bigpic .bitmap3 {
+.a6detail .slide-4 .bitmap3 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : 116px;
@@ -881,11 +859,11 @@ div {
   position            : absolute;
   margin              : 0;
   left                : -23px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
+   
+    
+      
 }
-.a6detail .bitmap {
+.a6detail .slide-3 {
   background-color    : rgba(130, 184, 217, 1.0);
   top                 : 775px;
   height              : 110px;
@@ -894,11 +872,11 @@ div {
   margin              : 0;
   left                : 411px;
   overflow            : hidden;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
+   
+    
+      
 }
-.a6detail .bitmap .mask {
+.a6detail .slide-3 .mask {
   background-color    : rgba(130, 184, 217, 1.0);
   top                 : 0px;
   height              : 110px;
@@ -906,11 +884,11 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
+   
+    
+      
 }
-.a6detail .bitmap .bitmap3 {
+.a6detail .slide-3 .bitmap3 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : 121px;
@@ -918,11 +896,11 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
+   
+    
+      
 }
-.a6detail .bitmap1 {
+.a6detail .slide-2 {
   background-color    : rgba(130, 184, 217, 1.0);
   top                 : 775px;
   height              : 110px;
@@ -931,11 +909,11 @@ div {
   margin              : 0;
   left                : 273px;
   overflow            : hidden;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
+   
+    
+      
 }
-.a6detail .bitmap1 .mask {
+.a6detail .slide-2 .mask {
   background-color    : rgba(130, 184, 217, 1.0);
   top                 : 0px;
   height              : 110px;
@@ -943,11 +921,11 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
+   
+    
+      
 }
-.a6detail .bitmap1 .bitmap3 {
+.a6detail .slide-2 .bitmap3 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : 135px;
@@ -955,11 +933,11 @@ div {
   position            : absolute;
   margin              : 0;
   left                : -9px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
+   
+    
+      
 }
-.a6detail .bitmap2 {
+.a6detail .slide-1 {
   background-color    : rgba(130, 184, 217, 1.0);
   top                 : 775px;
   height              : 110px;
@@ -968,11 +946,11 @@ div {
   margin              : 0;
   left                : 135px;
   overflow            : hidden;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
+   
+    
+      
 }
-.a6detail .bitmap2 .mask {
+.a6detail .slide-1 .mask {
   background-color    : rgba(130, 184, 217, 1.0);
   top                 : 0px;
   height              : 110px;
@@ -980,48 +958,55 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
+   
+    
+      
 }
-.a6detail .bitmap2 .bitmap3 {
+.a6detail .slide-1 .bitmap3 {
   background-color    : rgba(255,255,255,0.0);
   top                 : -9px;
   height              : 159px;
   width               : 246px;
   position            : absolute;
   margin              : 0;
-  left                : -72px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
+  left                : -72px;  
+      
 }
+
+
+.a6detail .slide-1:active, .a6detail .slide-2:active, .a6detail .slide-3:active, .a6detail .slide-4:active {
+  opacity: 0.6
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 .a6detail .back {
   background-color    : rgba(255,255,255,0.0);
   top                 : 282px;
   height              : 30px;
-  width               : 76px;
+  width               : 80px;
   position            : absolute;
   margin              : 0;
   left                : 135px;
   overflow            : hidden;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
+   
+    
+      
 }
-.a6detail .back .background {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 0px;
-  height              : 30px;
-  width               : 76px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.a6detail .back .sectiontitlecopy {
+
+.a6detail .back .back-text {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : auto;
@@ -1029,9 +1014,9 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 22px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
+   
+    
+      
   font-family         : "Open Sans", Helvetica, Arial, serif;
   font-weight         : 700;
   font-style          : normal;
@@ -1048,10 +1033,9 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 0px;
-  -ms-transform       : rotate(-90deg); /* IE 9 */
-  -webkit-transform   : rotate(-90deg); /* Chrome, Safari, Opera */
   transform           : rotate(-90deg);
 }
+
 .a6detail .p1headerbanner {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
@@ -1060,9 +1044,9 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
+    
+    
+      
 }
 .a6detail .p1headerbanner .rectangle {
   background-color    : rgba(255, 255, 255, 1.0);
@@ -1072,9 +1056,9 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
+   
+    
+      
 }
 .a6detail .p1headerbanner .headerbg {
   background-color    : rgba(255,255,255,0.0);
@@ -1084,9 +1068,9 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 68px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
+   
+    
+      
 }
 .a6detail .p1headerbanner .hoversearch {
   background-color    : rgba(255,255,255,0.0);
@@ -1096,9 +1080,9 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 1200px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
+   
+    
+      
 }
 .a6detail .p1headerbanner .hoversearch .icons {
   background-color    : rgba(255,255,255,0.0);
@@ -1108,14 +1092,12 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
   transition          : all 0.2s ease-in-out;
 }
-.a6detail .p1headerbanner .hoversearch .icons:hover {
+/*.a6detail .p1headerbanner .hoversearch .icons:hover {
   
-}
+}*/
+
 .a6detail .p1headerbanner .hoversearch .icons .iconsearch {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
@@ -1124,9 +1106,9 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
+   
+    
+      
 }
 .a6detail .p1headerbanner .hoversearch .headersectiontitle6 {
   background-color    : rgba(255,255,255,0.0);
@@ -1136,9 +1118,9 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 40px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
+   
+    
+      
   transition          : all 0.2s ease-in-out;
   font-family         : "Open Sans", Helvetica, Arial, serif;
   font-weight         : 700;
@@ -1161,9 +1143,9 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 791px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
+   
+    
+      
   transition          : all 0.2s ease-in-out;
   font-family         : "Open Sans", Helvetica, Arial, serif;
   font-weight         : 700;
@@ -1186,9 +1168,9 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 654px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
+   
+    
+      
   transition          : all 0.2s ease-in-out;
   font-family         : "Open Sans", Helvetica, Arial, serif;
   font-weight         : 700;
@@ -1211,9 +1193,9 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 510px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
+   
+    
+      
   transition          : all 0.2s ease-in-out;
   font-family         : "Open Sans", Helvetica, Arial, serif;
   font-weight         : 700;
@@ -1236,9 +1218,9 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 260px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
+   
+    
+      
   transition          : all 0.2s ease-in-out;
   font-family         : "Open Sans", Helvetica, Arial, serif;
   font-weight         : 700;
@@ -1261,9 +1243,9 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 157px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
+   
+    
+      
   transition          : all 0.2s ease-in-out;
   font-family         : "Open Sans", Helvetica, Arial, serif;
   font-weight         : 700;
@@ -1286,9 +1268,9 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 1144px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
+   
+    
+      
   transition          : all 0.2s ease-in-out;
 }
 .a6detail .p1headerbanner .shoppingcart:hover {
@@ -1302,9 +1284,9 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
+   
+    
+      
   font-family         : "Open Sans", Helvetica, Arial, serif;
   font-weight         : 600;
   font-style          : normal;
@@ -1321,27 +1303,29 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 156px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
+   
+    
+      
 }
-.a6detail .p1headerbanner .cartcount {
+.a6detail .p1headerbanner #obj-cartcountbg.cartcount {
   background-color    : rgba(255,255,255,0.0);
+  opacity: 0.0; /* make invisible when 0*/
   top                 : 80px;
   height              : 32px;
   width               : 32px;
+  transform           : scale(1.8);
   position            : absolute;
   margin              : 0;
   left                : 1332px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
+   
+    
+      
   transition          : all 0.2s ease-in-out;
 }
-.a6detail .p1headerbanner .cartcount:hover {
-  transform           : scale(1.8);
+.a6detail .p1headerbanner #obj-cartcountbg.cartcount:hover {
+  transform           : scale(2.1);
 }
-.a6detail .p1headerbanner .cartcount .cartcountbg {
+.a6detail .p1headerbanner #obj-cartcountbg.cartcount .cartcountbg {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : 32px;
@@ -1349,11 +1333,10 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
 }
-.a6detail .p1headerbanner .cartcount .cartcountnumer0 {
+
+
+.a6detail .p1headerbanner #obj-cartcountbg.cartcount .cartcountnumer0 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 6px;
   height              : auto;
@@ -1361,9 +1344,8 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 5px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
+   
+      
   font-family         : "Open Sans", Helvetica, Arial, serif;
   font-weight         : 600;
   font-style          : normal;
@@ -1380,9 +1362,9 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 555px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
+   
+    
+      
 }
 .a6detail .p1headerbanner .muddypalsicon .muddypalsicon1 {
   background-color    : rgba(255,255,255,0.0);
@@ -1392,86 +1374,7 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-/* .anima-animate-appear prefix for appear animations */
-.anima-animate-appear {
-  opacity             : 0;
-  display             : block;
-  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
-  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
-  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
-  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
-}
-.anima-animate-disappear {
-  opacity             : 1;
-  display             : block;
-  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
-  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
-  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
-  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
-}
-.anima-animate-nodelay {
-  -webkit-animation-delay: 0;
-  -moz-animation-delay: 0;
-  -o-animation-delay  : 0;
-  animation-delay     : 0;
-}
-@-webkit-keyframes anima-reveal {
-  0%
    
-  {
-      opacity: 0;
-    }
-  
     
-  100%
-   
-  {
-      opacity: 1;
-    }
-}
-@-moz-keyframes anima-reveal {
-  0%
-   
-  {
-      opacity: 0;
-    }
-  
-    
-  100%
-   
-  {
-      opacity: 1;
-    }
-}
-@-o-keyframes anima-reveal {
-  0%
-   
-  {
-      opacity: 0;
-    }
-  
-    
-  100%
-   
-  {
-      opacity: 1;
-    }
-}
-@keyframes anima-reveal {
-  0%
-   
-  {
-      opacity: 0;
-    }
-  
-    
-  100%
-   
-  {
-      opacity: 1;
-    }
+      
 }

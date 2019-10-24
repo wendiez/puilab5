@@ -5,7 +5,7 @@
                           src: url('../fonts/LithosPro-Black.otf') format("opentype");
                         }
                         
-.a8checkoutthree {
+ .a9checkoutthreesales {
   width               : 100%;
   min-width           : 1440px;
   height              : 100vh;
@@ -32,7 +32,7 @@ div {
 div {
   -webkit-text-size-adjust: none;
 }
-.a8checkoutthree .p1 {
+ .a9checkoutthreesales .p1 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 361px;
   height              : 407px;
@@ -44,7 +44,7 @@ div {
      
   transform           : rotate(0deg);
 }
-.a8checkoutthree .p1 .product1 {
+ .a9checkoutthreesales .p1 .product1 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : 407px;
@@ -58,7 +58,7 @@ div {
      
   transform           : rotate(0deg);
 }
-.a8checkoutthree .p1 .product1 .product4bgcopy3 {
+ .a9checkoutthreesales .p1 .product1 .product4bgcopy3 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : 407px;
@@ -70,7 +70,7 @@ div {
      
   transform           : rotate(0deg);
 }
-.a8checkoutthree .p1 .product1 .bitmap {
+ .a9checkoutthreesales .p1 .product1 .bitmap {
   background-color    : rgba(130, 184, 217, 1.0);
   top                 : 102px;
   height              : 289px;
@@ -83,7 +83,7 @@ div {
      
   transform           : rotate(0deg);
 }
-.a8checkoutthree .p1 .product1 .bitmap .mask {
+ .a9checkoutthreesales .p1 .product1 .bitmap .mask {
   background-color    : rgba(130, 184, 217, 1.0);
   top                 : 0px;
   height              : 289px;
@@ -95,7 +95,7 @@ div {
      
   transform           : rotate(0deg);
 }
-.a8checkoutthree .p1 .product1 .bitmap .bitmap1 {
+ .a9checkoutthreesales .p1 .product1 .bitmap .bitmap1 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : 296px;
@@ -107,7 +107,7 @@ div {
      
   transform           : rotate(0deg);
 }
-.a8checkoutthree .p1 .product1 .product1titlecopy2 {
+ .a9checkoutthreesales .p1 .product1 .product1titlecopy2 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 117px;
   height              : auto;
@@ -126,7 +126,7 @@ div {
   text-align          : center;
   line-height         : 41.0px;
 }
-.a8checkoutthree .p1 .product1 .product1titlecopy3 {
+ .a9checkoutthreesales .p1 .product1 .product1titlecopy3 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 221px;
   height              : auto;
@@ -145,7 +145,7 @@ div {
   text-align          : left;
   line-height         : 33.0px;
 }
-.a8checkoutthree .p1 .product1 .starrating {
+ .a9checkoutthreesales .p1 .product1 .starrating {
   background-color    : rgba(255,255,255,0.0);
   top                 : 164px;
   height              : 18px;
@@ -157,7 +157,7 @@ div {
      
   transform           : rotate(0deg);
 }
-.a8checkoutthree .p1 .product1 .starrating .filledstar {
+ .a9checkoutthreesales .p1 .product1 .starrating .filledstar {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : 18px;
@@ -169,7 +169,7 @@ div {
      
   transform           : rotate(0deg);
 }
-.a8checkoutthree .p1 .product1 .starrating .filledstar1 {
+ .a9checkoutthreesales .p1 .product1 .starrating .filledstar1 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : 18px;
@@ -181,7 +181,7 @@ div {
      
   transform           : rotate(0deg);
 }
-.a8checkoutthree .p1 .product1 .starrating .filledstar2 {
+ .a9checkoutthreesales .p1 .product1 .starrating .filledstar2 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : 18px;
@@ -193,7 +193,7 @@ div {
      
   transform           : rotate(0deg);
 }
-.a8checkoutthree .p1 .product1 .starrating .filledstar3 {
+ .a9checkoutthreesales .p1 .product1 .starrating .filledstar3 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : 18px;
@@ -205,7 +205,7 @@ div {
      
   transform           : rotate(0deg);
 }
-.a8checkoutthree .p1 .product1 .starrating .filledstar4 {
+ .a9checkoutthreesales .p1 .product1 .starrating .filledstar4 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : 18px;
@@ -217,7 +217,7 @@ div {
      
   transform           : rotate(0deg);
 }
-.a8checkoutthree .p1 .product1 .product1price2 {
+ .a9checkoutthreesales .p1 .product1 .product1price2 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 125px;
   height              : auto;
@@ -237,7 +237,7 @@ div {
   line-height         : 65.0px;
 }
 
-.a8checkoutthree .greenline {
+ .a9checkoutthreesales .greenline {
   .line{
     top: 782px;
     width: 1390px;
@@ -247,7 +247,7 @@ div {
 
     
 }
-.a8checkoutthree .p1copy {
+ .a9checkoutthreesales .p1copy {
   background-color    : rgba(255,255,255,0.0);
   top                 : 810px;
   height              : 407px;
@@ -259,7 +259,7 @@ div {
      
   transform           : rotate(0deg);
 }
-.a8checkoutthree .p1copy .product1 {
+ .a9checkoutthreesales .p1copy .product1 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : 407px;
@@ -273,7 +273,7 @@ div {
      
   transform           : rotate(0deg);
 }
-.a8checkoutthree .p1copy .product1 .product4bgcopy3 {
+ .a9checkoutthreesales .p1copy .product1 .product4bgcopy3 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : 407px;
@@ -285,7 +285,7 @@ div {
      
   transform           : rotate(0deg);
 }
-.a8checkoutthree .p1copy .product1 .bitmap {
+ .a9checkoutthreesales .p1copy .product1 .bitmap {
   background-color    : rgba(255,255,255,0.0);
   top                 : 50px;
   height              : 280px;
@@ -297,7 +297,7 @@ div {
      
   transform           : rotate(0deg);
 }
-.a8checkoutthree .p1copy .product1 .product1titlecopy2 {
+ .a9checkoutthreesales .p1copy .product1 .product1titlecopy2 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 117px;
   height              : auto;
@@ -316,7 +316,7 @@ div {
   text-align          : center;
   line-height         : 41.0px;
 }
-.a8checkoutthree .p1copy .product1 .product1titlecopy3 {
+ .a9checkoutthreesales .p1copy .product1 .product1titlecopy3 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 221px;
   height              : auto;
@@ -335,7 +335,7 @@ div {
   text-align          : left;
   line-height         : 33.0px;
 }
-.a8checkoutthree .p1copy .product1 .oval {
+ .a9checkoutthreesales .p1copy .product1 .oval {
   background-color    : rgba(255,255,255,0.0);
   top                 : 210px;
   height              : 63px;
@@ -347,7 +347,7 @@ div {
      
   transform           : rotate(0deg);
 }
-.a8checkoutthree .p1copy .product1 .oval1 {
+ .a9checkoutthreesales .p1copy .product1 .oval1 {
   background-color    : rgba(255,255,255,0.0);
   top                 : -227px;
   height              : 63px;
@@ -359,7 +359,7 @@ div {
      
   transform           : rotate(0deg);
 }
-.a8checkoutthree .p1copy .product1 .starrating {
+ .a9checkoutthreesales .p1copy .product1 .starrating {
   background-color    : rgba(255,255,255,0.0);
   top                 : 164px;
   height              : 18px;
@@ -371,7 +371,7 @@ div {
      
   transform           : rotate(0deg);
 }
-.a8checkoutthree .p1copy .product1 .starrating .filledstar {
+ .a9checkoutthreesales .p1copy .product1 .starrating .filledstar {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : 18px;
@@ -383,7 +383,7 @@ div {
      
   transform           : rotate(0deg);
 }
-.a8checkoutthree .p1copy .product1 .starrating .filledstar1 {
+ .a9checkoutthreesales .p1copy .product1 .starrating .filledstar1 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : 18px;
@@ -395,7 +395,7 @@ div {
      
   transform           : rotate(0deg);
 }
-.a8checkoutthree .p1copy .product1 .starrating .filledstar2 {
+ .a9checkoutthreesales .p1copy .product1 .starrating .filledstar2 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : 18px;
@@ -407,7 +407,7 @@ div {
      
   transform           : rotate(0deg);
 }
-.a8checkoutthree .p1copy .product1 .starrating .filledstar3 {
+ .a9checkoutthreesales .p1copy .product1 .starrating .filledstar3 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : 18px;
@@ -419,7 +419,7 @@ div {
      
   transform           : rotate(0deg);
 }
-.a8checkoutthree .p1copy .product1 .starrating .filledstar4 {
+ .a9checkoutthreesales .p1copy .product1 .starrating .filledstar4 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : 18px;
@@ -431,7 +431,7 @@ div {
      
   transform           : rotate(0deg);
 }
-.a8checkoutthree .p1copy .product1 .product1price2 {
+ .a9checkoutthreesales .p1copy .product1 .product1price2 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 125px;
   height              : auto;
@@ -450,7 +450,7 @@ div {
   text-align          : left;
   line-height         : 65.0px;
 }
-.a8checkoutthree .p1copy2 {
+ .a9checkoutthreesales .p1copy2 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 1253px;
   height              : 407px;
@@ -462,7 +462,7 @@ div {
      
   transform           : rotate(0deg);
 }
-.a8checkoutthree .p1copy2 .product1 {
+ .a9checkoutthreesales .p1copy2 .product1 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : 407px;
@@ -476,7 +476,7 @@ div {
      
   transform           : rotate(0deg);
 }
-.a8checkoutthree .p1copy2 .product1 .product4bgcopy3 {
+ .a9checkoutthreesales .p1copy2 .product1 .product4bgcopy3 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : 407px;
@@ -488,7 +488,7 @@ div {
      
   transform           : rotate(0deg);
 }
-.a8checkoutthree .p1copy2 .product1 .bitmap {
+ .a9checkoutthreesales .p1copy2 .product1 .bitmap {
   background-color    : rgba(255,255,255,0.0);
   top                 : 64px;
   height              : 272px;
@@ -500,7 +500,7 @@ div {
      
   transform           : rotate(0deg);
 }
-.a8checkoutthree .p1copy2 .product1 .product1titlecopy2 {
+ .a9checkoutthreesales .p1copy2 .product1 .product1titlecopy2 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 117px;
   height              : auto;
@@ -519,7 +519,7 @@ div {
   text-align          : center;
   line-height         : 41.0px;
 }
-.a8checkoutthree .p1copy2 .product1 .starrating {
+ .a9checkoutthreesales .p1copy2 .product1 .starrating {
   background-color    : rgba(255,255,255,0.0);
   top                 : 164px;
   height              : 18px;
@@ -531,7 +531,7 @@ div {
      
   transform           : rotate(0deg);
 }
-.a8checkoutthree .p1copy2 .product1 .starrating .filledstar {
+ .a9checkoutthreesales .p1copy2 .product1 .starrating .filledstar {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : 18px;
@@ -543,7 +543,7 @@ div {
      
   transform           : rotate(0deg);
 }
-.a8checkoutthree .p1copy2 .product1 .starrating .filledstar1 {
+ .a9checkoutthreesales .p1copy2 .product1 .starrating .filledstar1 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : 18px;
@@ -555,7 +555,7 @@ div {
      
   transform           : rotate(0deg);
 }
-.a8checkoutthree .p1copy2 .product1 .starrating .filledstar2 {
+ .a9checkoutthreesales .p1copy2 .product1 .starrating .filledstar2 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : 18px;
@@ -567,7 +567,7 @@ div {
      
   transform           : rotate(0deg);
 }
-.a8checkoutthree .p1copy2 .product1 .starrating .filledstar3 {
+ .a9checkoutthreesales .p1copy2 .product1 .starrating .filledstar3 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : 18px;
@@ -579,7 +579,7 @@ div {
      
   transform           : rotate(0deg);
 }
-.a8checkoutthree .p1copy2 .product1 .starrating .filledstar4 {
+ .a9checkoutthreesales .p1copy2 .product1 .starrating .filledstar4 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : 18px;
@@ -591,7 +591,7 @@ div {
      
   transform           : rotate(0deg);
 }
-.a8checkoutthree .p1copy2 .product1 .product1price2 {
+ .a9checkoutthreesales .p1copy2 .product1 .product1price2 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 125px;
   height              : auto;
@@ -610,7 +610,7 @@ div {
   text-align          : left;
   line-height         : 65.0px;
 }
-.a8checkoutthree .group4 {
+ .a9checkoutthreesales .group4 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 529px;
   height              : 63px;
@@ -622,7 +622,7 @@ div {
      
   transform           : rotate(0deg);
 }
-.a8checkoutthree .group4 .group3 {
+ .a9checkoutthreesales .group4 .group3 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 7px;
   height              : 49px;
@@ -634,7 +634,7 @@ div {
      
   transform           : rotate(0deg);
 }
-.a8checkoutthree .group4 .group3 .oval {
+ .a9checkoutthreesales .group4 .group3 .oval {
   background-color    : rgba(255,255,255,0.0);
   top                 : 11px;
   height              : 32px;
@@ -646,7 +646,7 @@ div {
      
   transform           : rotate(0deg);
 }
-.a8checkoutthree .group4 .group3 .label1 {
+ .a9checkoutthreesales .group4 .group3 .label1 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : auto;
@@ -665,7 +665,7 @@ div {
   text-align          : left;
   line-height         : 49.0px;
 }
-.a8checkoutthree .group4 .group2 {
+ .a9checkoutthreesales .group4 .group2 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 7px;
   height              : 49px;
@@ -677,7 +677,7 @@ div {
      
   transform           : rotate(0deg);
 }
-.a8checkoutthree .group4 .group2 .ovalcopy {
+ .a9checkoutthreesales .group4 .group2 .ovalcopy {
   background-color    : rgba(255,255,255,0.0);
   top                 : 10px;
   height              : 32px;
@@ -689,7 +689,7 @@ div {
      
   transform           : rotate(0deg);
 }
-.a8checkoutthree .group4 .group2 .label1 {
+ .a9checkoutthreesales .group4 .group2 .label1 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : auto;
@@ -708,7 +708,7 @@ div {
   text-align          : left;
   line-height         : 49.0px;
 }
-.a8checkoutthree .group4 .sizel {
+ .a9checkoutthreesales .group4 .sizel {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : 63px;
@@ -721,7 +721,7 @@ div {
      
   transform           : rotate(0deg);
 }
-.a8checkoutthree .group4 .sizel .background {
+ .a9checkoutthreesales .group4 .sizel .background {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : 63px;
@@ -733,7 +733,7 @@ div {
      
   transform           : rotate(0deg);
 }
-.a8checkoutthree .group4 .sizel .rectangle {
+ .a9checkoutthreesales .group4 .sizel .rectangle {
   background-color    : rgba(255, 255, 255, 1.0);
   top                 : 2px;
   height              : 59px;
@@ -749,7 +749,7 @@ div {
      
   transform           : rotate(0deg);
 }
-.a8checkoutthree .group4 .sizel .ss {
+ .a9checkoutthreesales .group4 .sizel .ss {
   background-color    : rgba(255,255,255,0.0);
   top                 : 15px;
   height              : auto;
@@ -768,7 +768,7 @@ div {
   text-align          : center;
   line-height         : 33.0px;
 }
-.a8checkoutthree .group4copy {
+ .a9checkoutthreesales .group4copy {
   background-color    : rgba(255,255,255,0.0);
   top                 : 978px;
   height              : 63px;
@@ -780,7 +780,7 @@ div {
      
   transform           : rotate(0deg);
 }
-.a8checkoutthree .group4copy .group3 {
+ .a9checkoutthreesales .group4copy .group3 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 7px;
   height              : 49px;
@@ -792,7 +792,7 @@ div {
      
   transform           : rotate(0deg);
 }
-.a8checkoutthree .group4copy .group3 .oval {
+ .a9checkoutthreesales .group4copy .group3 .oval {
   background-color    : rgba(255,255,255,0.0);
   top                 : 11px;
   height              : 32px;
@@ -804,7 +804,7 @@ div {
      
   transform           : rotate(0deg);
 }
-.a8checkoutthree .group4copy .group3 .label1 {
+ .a9checkoutthreesales .group4copy .group3 .label1 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : auto;
@@ -823,7 +823,7 @@ div {
   text-align          : left;
   line-height         : 49.0px;
 }
-.a8checkoutthree .group4copy .group2 {
+ .a9checkoutthreesales .group4copy .group2 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 7px;
   height              : 49px;
@@ -835,7 +835,7 @@ div {
      
   transform           : rotate(0deg);
 }
-.a8checkoutthree .group4copy .group2 .ovalcopy {
+ .a9checkoutthreesales .group4copy .group2 .ovalcopy {
   background-color    : rgba(255,255,255,0.0);
   top                 : 10px;
   height              : 32px;
@@ -847,7 +847,7 @@ div {
      
   transform           : rotate(0deg);
 }
-.a8checkoutthree .group4copy .group2 .label1 {
+ .a9checkoutthreesales .group4copy .group2 .label1 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : auto;
@@ -866,7 +866,7 @@ div {
   text-align          : left;
   line-height         : 49.0px;
 }
-.a8checkoutthree .group4copy .sizel {
+ .a9checkoutthreesales .group4copy .sizel {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : 63px;
@@ -879,7 +879,7 @@ div {
      
   transform           : rotate(0deg);
 }
-.a8checkoutthree .group4copy .sizel .background {
+ .a9checkoutthreesales .group4copy .sizel .background {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : 63px;
@@ -891,7 +891,7 @@ div {
      
   transform           : rotate(0deg);
 }
-.a8checkoutthree .group4copy .sizel .rectangle {
+ .a9checkoutthreesales .group4copy .sizel .rectangle {
   background-color    : rgba(255, 255, 255, 1.0);
   top                 : 2px;
   height              : 59px;
@@ -907,7 +907,7 @@ div {
      
   transform           : rotate(0deg);
 }
-.a8checkoutthree .group4copy .sizel .ss {
+ .a9checkoutthreesales .group4copy .sizel .ss {
   background-color    : rgba(255,255,255,0.0);
   top                 : 15px;
   height              : auto;
@@ -926,7 +926,7 @@ div {
   text-align          : center;
   line-height         : 33.0px;
 }
-.a8checkoutthree .group4copy2 {
+ .a9checkoutthreesales .group4copy2 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 1421px;
   height              : 63px;
@@ -938,7 +938,7 @@ div {
      
   transform           : rotate(0deg);
 }
-.a8checkoutthree .group4copy2 .group3 {
+ .a9checkoutthreesales .group4copy2 .group3 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 7px;
   height              : 49px;
@@ -950,7 +950,7 @@ div {
      
   transform           : rotate(0deg);
 }
-.a8checkoutthree .group4copy2 .group3 .oval {
+ .a9checkoutthreesales .group4copy2 .group3 .oval {
   background-color    : rgba(255,255,255,0.0);
   top                 : 11px;
   height              : 32px;
@@ -962,7 +962,7 @@ div {
      
   transform           : rotate(0deg);
 }
-.a8checkoutthree .group4copy2 .group3 .label1 {
+ .a9checkoutthreesales .group4copy2 .group3 .label1 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : auto;
@@ -981,7 +981,7 @@ div {
   text-align          : left;
   line-height         : 49.0px;
 }
-.a8checkoutthree .group4copy2 .group2 {
+ .a9checkoutthreesales .group4copy2 .group2 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 7px;
   height              : 49px;
@@ -993,7 +993,7 @@ div {
      
   transform           : rotate(0deg);
 }
-.a8checkoutthree .group4copy2 .group2 .ovalcopy {
+ .a9checkoutthreesales .group4copy2 .group2 .ovalcopy {
   background-color    : rgba(255,255,255,0.0);
   top                 : 10px;
   height              : 32px;
@@ -1005,7 +1005,7 @@ div {
      
   transform           : rotate(0deg);
 }
-.a8checkoutthree .group4copy2 .group2 .label1 {
+ .a9checkoutthreesales .group4copy2 .group2 .label1 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : auto;
@@ -1024,7 +1024,7 @@ div {
   text-align          : left;
   line-height         : 49.0px;
 }
-.a8checkoutthree .group4copy2 .sizel {
+ .a9checkoutthreesales .group4copy2 .sizel {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : 63px;
@@ -1037,7 +1037,7 @@ div {
      
   transform           : rotate(0deg);
 }
-.a8checkoutthree .group4copy2 .sizel .background {
+ .a9checkoutthreesales .group4copy2 .sizel .background {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : 63px;
@@ -1049,7 +1049,7 @@ div {
      
   transform           : rotate(0deg);
 }
-.a8checkoutthree .group4copy2 .sizel .rectangle {
+ .a9checkoutthreesales .group4copy2 .sizel .rectangle {
   background-color    : rgba(255, 255, 255, 1.0);
   top                 : 2px;
   height              : 59px;
@@ -1065,7 +1065,7 @@ div {
      
   transform           : rotate(0deg);
 }
-.a8checkoutthree .group4copy2 .sizel .ss {
+ .a9checkoutthreesales .group4copy2 .sizel .ss {
   background-color    : rgba(255,255,255,0.0);
   top                 : 15px;
   height              : auto;
@@ -1084,7 +1084,7 @@ div {
   text-align          : center;
   line-height         : 33.0px;
 }
-.a8checkoutthree .sectiontitlecopy7 {
+ .a9checkoutthreesales .sectiontitlecopy7 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 273px;
   height              : auto;
@@ -1103,7 +1103,7 @@ div {
   text-align          : left;
   line-height         : 39.0px;
 }
-.a8checkoutthree .iconshoppingcart {
+ .a9checkoutthreesales .iconshoppingcart {
   background-color    : rgba(255,255,255,0.0);
   top                 : 273px;
   height              : 48px;
@@ -1115,7 +1115,7 @@ div {
      
   transform           : rotate(0deg);
 }
-.a8checkoutthree .back {
+ .a9checkoutthreesales .back {
   background-color    : rgba(255,255,255,0.0);
   top                 : 282px;
   height              : 30px;
@@ -1128,7 +1128,7 @@ div {
      
   transform           : rotate(0deg);
 }
-.a8checkoutthree .back .background {
+ .a9checkoutthreesales .back .background {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : 30px;
@@ -1140,7 +1140,7 @@ div {
      
   transform           : rotate(0deg);
 }
-.a8checkoutthree .back .sectiontitlecopy {
+ .a9checkoutthreesales .back .sectiontitlecopy {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : auto;
@@ -1159,7 +1159,7 @@ div {
   text-align          : left;
   line-height         : 30.0px;
 }
-.a8checkoutthree .back .triangle {
+ .a9checkoutthreesales .back .triangle {
   background-color    : rgba(255,255,255,0.0);
   top                 : 7px;
   height              : 17px;
@@ -1171,7 +1171,7 @@ div {
   -webkit-transform   : rotate(-90deg); /* Chrome, Safari, Opera */
   transform           : rotate(-90deg);
 }
-.a8checkoutthree .product1price {
+ .a9checkoutthreesales .product1price {
   background-color    : rgba(255,255,255,0.0);
   top                 : 1842px;
   height              : auto;
@@ -1190,7 +1190,7 @@ div {
   text-align          : left;
   line-height         : 33.0px;
 }
-.a8checkoutthree .product1price1 {
+ .a9checkoutthreesales .product1price1 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 1824px;
   height              : auto;
@@ -1209,7 +1209,7 @@ div {
   text-align          : left;
   line-height         : 65.0px;
 }
-.a8checkoutthree .addtocart {
+ .a9checkoutthreesales .addtocart {
   background-color    : rgba(255,255,255,0.0);
   top                 : 1955px;
   height              : 97px;
@@ -1222,10 +1222,10 @@ div {
   transform           : rotate(0deg);
   transition          : all 0.2s ease-in-out;
 }
-.a8checkoutthree .addtocart:hover {
+ .a9checkoutthreesales .addtocart:hover {
   
 }
-.a8checkoutthree .addtocart .rectanglecopy6 {
+ .a9checkoutthreesales .addtocart .rectanglecopy6 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : 97px;
@@ -1237,7 +1237,7 @@ div {
      
   transform           : rotate(0deg);
 }
-.a8checkoutthree .addtocart .rectanglecopy6 .rectangle {
+ .a9checkoutthreesales .addtocart .rectanglecopy6 .rectangle {
   background-color    : rgba(185, 191, 5, 1.0);
   top                 : 0px;
   height              : 97px;
@@ -1250,7 +1250,7 @@ div {
      
   transform           : rotate(0deg);
 }
-.a8checkoutthree .addtocart .rectanglecopy6 .checkout {
+ .a9checkoutthreesales .addtocart .rectanglecopy6 .checkout {
   background-color    : rgba(255,255,255,0.0);
   top                 : 24px;
   height              : auto;
@@ -1269,7 +1269,7 @@ div {
   text-align          : center;
   line-height         : 49.0px;
 }
-.a8checkoutthree .underlinebutton {
+ .a9checkoutthreesales .underlinebutton {
   background-color    : rgba(255,255,255,0.0);
   top                 : 2072px;
   height              : 43px;
@@ -1281,7 +1281,7 @@ div {
      
   transform           : rotate(0deg);
 }
-.a8checkoutthree .underlinebutton .underlinebutton1 {
+ .a9checkoutthreesales .underlinebutton .underlinebutton1 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : 43px;
@@ -1293,7 +1293,7 @@ div {
      
   transform           : rotate(0deg);
 }
-.a8checkoutthree .underlinebutton .underlinebutton1 .product1price2 {
+ .a9checkoutthreesales .underlinebutton .underlinebutton1 .product1price2 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : auto;
@@ -1312,7 +1312,7 @@ div {
   text-align          : center;
   line-height         : 33.0px;
 }
-.a8checkoutthree .underlinebutton .underlinebutton1 .line {
+ .a9checkoutthreesales .underlinebutton .underlinebutton1 .line {
   background-color    : rgba(255,255,255,0.0);
   top                 : 41px;
   height              : 2px;
@@ -1324,7 +1324,7 @@ div {
      
   transform           : rotate(0deg);
 }
-.a8checkoutthree .p1headerbanner {
+ .a9checkoutthreesales .p1headerbanner {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : 254px;
@@ -1336,7 +1336,7 @@ div {
      
   transform           : rotate(0deg);
 }
-.a8checkoutthree .p1headerbanner .rectangle {
+ .a9checkoutthreesales .p1headerbanner .rectangle {
   background-color    : rgba(255, 255, 255, 1.0);
   top                 : 0px;
   height              : 254px;
@@ -1348,7 +1348,7 @@ div {
      
   transform           : rotate(0deg);
 }
-.a8checkoutthree .p1headerbanner .headerbg {
+ .a9checkoutthreesales .p1headerbanner .headerbg {
   background-color    : rgba(255,255,255,0.0);
   top                 : 152px;
   height              : 99px;
@@ -1360,7 +1360,7 @@ div {
      
   transform           : rotate(0deg);
 }
-.a8checkoutthree .p1headerbanner .hoversearch {
+ .a9checkoutthreesales .p1headerbanner .hoversearch {
   background-color    : rgba(255,255,255,0.0);
   top                 : 180px;
   height              : 32px;
@@ -1372,7 +1372,7 @@ div {
      
   transform           : rotate(0deg);
 }
-.a8checkoutthree .p1headerbanner .hoversearch .icons {
+ .a9checkoutthreesales .p1headerbanner .hoversearch .icons {
   background-color    : rgba(255,255,255,0.0);
   top                 : 2px;
   height              : 30px;
@@ -1385,10 +1385,10 @@ div {
   transform           : rotate(0deg);
   transition          : all 0.2s ease-in-out;
 }
-.a8checkoutthree .p1headerbanner .hoversearch .icons:hover {
+ .a9checkoutthreesales .p1headerbanner .hoversearch .icons:hover {
   
 }
-.a8checkoutthree .p1headerbanner .hoversearch .icons .iconsearch {
+ .a9checkoutthreesales .p1headerbanner .hoversearch .icons .iconsearch {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : 30px;
@@ -1400,7 +1400,7 @@ div {
      
   transform           : rotate(0deg);
 }
-.a8checkoutthree .p1headerbanner .hoversearch .headersectiontitle6 {
+ .a9checkoutthreesales .p1headerbanner .hoversearch .headersectiontitle6 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : auto;
@@ -1420,12 +1420,12 @@ div {
   text-align          : left;
   line-height         : 30.0px;
 }
-.a8checkoutthree .p1headerbanner .hoversearch .headersectiontitle6:hover {
+ .a9checkoutthreesales .p1headerbanner .hoversearch .headersectiontitle6:hover {
   transform           : scale(1.1);
   color               : #ffffff;
   text-shadow         : 2px 2px 5px grey;
 }
-.a8checkoutthree .p1headerbanner .headersectiontitle5 {
+ .a9checkoutthreesales .p1headerbanner .headersectiontitle5 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 180px;
   height              : auto;
@@ -1445,12 +1445,12 @@ div {
   text-align          : left;
   line-height         : 30.0px;
 }
-.a8checkoutthree .p1headerbanner .headersectiontitle5:hover {
+ .a9checkoutthreesales .p1headerbanner .headersectiontitle5:hover {
   transform           : scale(1.1);
   color               : #ffffff;
   text-shadow         : 2px 2px 5px grey;
 }
-.a8checkoutthree .p1headerbanner .headersectiontitle4 {
+ .a9checkoutthreesales .p1headerbanner .headersectiontitle4 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 180px;
   height              : auto;
@@ -1470,12 +1470,12 @@ div {
   text-align          : left;
   line-height         : 30.0px;
 }
-.a8checkoutthree .p1headerbanner .headersectiontitle4:hover {
+ .a9checkoutthreesales .p1headerbanner .headersectiontitle4:hover {
   transform           : scale(1.1);
   color               : #ffffff;
   text-shadow         : 2px 2px 5px grey;
 }
-.a8checkoutthree .p1headerbanner .headersectiontitle3 {
+ .a9checkoutthreesales .p1headerbanner .headersectiontitle3 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 180px;
   height              : auto;
@@ -1495,12 +1495,12 @@ div {
   text-align          : left;
   line-height         : 30.0px;
 }
-.a8checkoutthree .p1headerbanner .headersectiontitle3:hover {
+ .a9checkoutthreesales .p1headerbanner .headersectiontitle3:hover {
   transform           : scale(1.1);
   color               : #ffffff;
   text-shadow         : 2px 2px 5px grey;
 }
-.a8checkoutthree .p1headerbanner .headersectiontitle2 {
+ .a9checkoutthreesales .p1headerbanner .headersectiontitle2 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 180px;
   height              : auto;
@@ -1520,12 +1520,12 @@ div {
   text-align          : left;
   line-height         : 30.0px;
 }
-.a8checkoutthree .p1headerbanner .headersectiontitle2:hover {
+ .a9checkoutthreesales .p1headerbanner .headersectiontitle2:hover {
   transform           : scale(1.1);
   color               : #ffffff;
   text-shadow         : 2px 2px 5px grey;
 }
-.a8checkoutthree .p1headerbanner .headersectiontitle1 {
+ .a9checkoutthreesales .p1headerbanner .headersectiontitle1 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 180px;
   height              : auto;
@@ -1545,12 +1545,12 @@ div {
   text-align          : left;
   line-height         : 30.0px;
 }
-.a8checkoutthree .p1headerbanner .headersectiontitle1:hover {
+ .a9checkoutthreesales .p1headerbanner .headersectiontitle1:hover {
   transform           : scale(1.1);
   color               : #ffffff;
   text-shadow         : 2px 2px 5px grey;
 }
-.a8checkoutthree .p1headerbanner .shoppingcart {
+ .a9checkoutthreesales .p1headerbanner .shoppingcart {
   background-color    : rgba(255,255,255,0.0);
   top                 : 89px;
   height              : 48px;
@@ -1563,10 +1563,10 @@ div {
   transform           : rotate(0deg);
   transition          : all 0.2s ease-in-out;
 }
-.a8checkoutthree .p1headerbanner .shoppingcart:hover {
+ .a9checkoutthreesales .p1headerbanner .shoppingcart:hover {
   transform           : scale(0.9);
 }
-.a8checkoutthree .p1headerbanner .shoppingcart .textonclickshoppingcart {
+ .a9checkoutthreesales .p1headerbanner .shoppingcart .textonclickshoppingcart {
   background-color    : rgba(255,255,255,0.0);
   top                 : 9px;
   height              : auto;
@@ -1585,7 +1585,7 @@ div {
   text-align          : left;
   line-height         : 30.0px;
 }
-.a8checkoutthree .p1headerbanner .shoppingcart .iconshoppingcart1 {
+ .a9checkoutthreesales .p1headerbanner .shoppingcart .iconshoppingcart1 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : 48px;
@@ -1597,7 +1597,7 @@ div {
      
   transform           : rotate(0deg);
 }
-.a8checkoutthree .p1headerbanner .cartcount {
+ .a9checkoutthreesales .p1headerbanner .cartcount {
   background-color    : rgba(255,255,255,0.0);
   top                 : 80px;
   height              : 32px;
@@ -1610,10 +1610,10 @@ div {
   transform           : rotate(0deg);
   transition          : all 0.2s ease-in-out;
 }
-.a8checkoutthree .p1headerbanner .cartcount:hover {
+ .a9checkoutthreesales .p1headerbanner .cartcount:hover {
   transform           : scale(1.8);
 }
-.a8checkoutthree .p1headerbanner .cartcount .cartcountbg {
+ .a9checkoutthreesales .p1headerbanner .cartcount .cartcountbg {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : 32px;
@@ -1625,7 +1625,7 @@ div {
      
   transform           : rotate(0deg);
 }
-.a8checkoutthree .p1headerbanner .cartcount .cartcountnumer0 {
+ .a9checkoutthreesales .p1headerbanner .cartcount .cartcountnumer0 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 6px;
   height              : auto;
@@ -1644,7 +1644,7 @@ div {
   text-align          : center;
   line-height         : 15.0px;
 }
-.a8checkoutthree .p1headerbanner .muddypalsicon {
+ .a9checkoutthreesales .p1headerbanner .muddypalsicon {
   background-color    : rgba(255,255,255,0.0);
   top                 : 19px;
   height              : 133px;
@@ -1656,7 +1656,7 @@ div {
      
   transform           : rotate(0deg);
 }
-.a8checkoutthree .p1headerbanner .muddypalsicon .muddypalsicon1 {
+ .a9checkoutthreesales .p1headerbanner .muddypalsicon .muddypalsicon1 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : 133px;
