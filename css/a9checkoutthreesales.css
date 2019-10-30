@@ -231,7 +231,7 @@ div {
   font-family         : "Open Sans", Helvetica, Arial, serif;
   font-weight         : 700;
   font-style          : normal;
-  font-size           : 48.0px;
+  font-size           : 36.0px;
   color               : rgba(0, 0, 0, 1.0);
   text-align          : left;
   line-height         : 65.0px;
@@ -445,7 +445,7 @@ div {
   font-family         : "Open Sans", Helvetica, Arial, serif;
   font-weight         : 700;
   font-style          : normal;
-  font-size           : 48.0px;
+  font-size           : 36.0px;
   color               : rgba(0, 0, 0, 1.0);
   text-align          : left;
   line-height         : 65.0px;
@@ -605,7 +605,7 @@ div {
   font-family         : "Open Sans", Helvetica, Arial, serif;
   font-weight         : 700;
   font-style          : normal;
-  font-size           : 48.0px;
+  font-size           : 36.0px;
   color               : rgba(0, 0, 0, 1.0);
   text-align          : left;
   line-height         : 65.0px;
@@ -1167,8 +1167,8 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 0px;
-  -ms-transform       : rotate(-90deg); /* IE 9 */
-  -webkit-transform   : rotate(-90deg); /* Chrome, Safari, Opera */
+   
+   
   transform           : rotate(-90deg);
 }
  .a9checkoutthreesales .product1price {
@@ -1186,13 +1186,13 @@ div {
   font-weight         : 700;
   font-style          : normal;
   font-size           : 24.0px;
-  color               : rgba(0, 0, 0, 1.0);
+  color               : rgba(, 0, 0, 1.0);
   text-align          : left;
   line-height         : 33.0px;
 }
  .a9checkoutthreesales .product1price1 {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 1824px;
+  top                 : 1790px;
   height              : auto;
   width               : 146px;
   position            : absolute;
@@ -1204,7 +1204,7 @@ div {
   font-family         : "Open Sans", Helvetica, Arial, serif;
   font-weight         : 700;
   font-style          : normal;
-  font-size           : 48.0px;
+  font-size           : 36.0px;
   color               : rgba(0, 0, 0, 1.0);
   text-align          : left;
   line-height         : 65.0px;

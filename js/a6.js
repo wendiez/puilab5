@@ -15,12 +15,10 @@ let sizetxt = ["breast girth SS 65-71 cm $30.99", "breast girth S 72-91 cm $34.9
 
 
 
-
-
 document.addEventListener('DOMContentLoaded', function(){
     // Handler when the DOM is fully loaded
-    // add minus items
-    
+
+    //alert("成功啦！");
 
     document.getElementById('btn-clickadd').addEventListener('click', additem);
     document.getElementById('btn-clickminus').addEventListener('click', minusitem);
@@ -61,8 +59,8 @@ document.addEventListener('DOMContentLoaded', function(){
 
 
 ///////////////////////////////
-    let presschangesizenodelist = document.querySelectorAll('.size-selection');
-    let presschangesize = Array.from(presschangesizenodelist)
+    let presschangesizenodelist = document.querySelectorAll('.size-selection'); //returns a NODELIST
+    let presschangesize = Array.from(presschangesizenodelist) //change to array list!!
     console.log(presschangesize);
     //console.log(presschangesize.length);
     //console.log(Array.from(presschangesize));   
@@ -146,7 +144,10 @@ document.addEventListener('DOMContentLoaded', function(){
         console.log("size is"+currentSizeIndex);
     }
 
-
+    check = function (){
+        //function to for html body onload();
+        //alert("成功啦！");
+    }
 
 
     changetoone = function (){
