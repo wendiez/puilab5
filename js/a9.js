@@ -23,6 +23,9 @@ document.addEventListener('DOMContentLoaded', function(){
         //function to for html body onload();
         //alert("成功啦！");
     }
+    document.getElementById('btn-clickadd').addEventListener('click', additem);
+    document.getElementById('btn-clickminus').addEventListener('click', minusitem);
+
 
     calculatetotalquantity = function(){
         totalshoppingcartitem_a9= vestquant+bottlequant+shoppingcartitem_a9;
@@ -45,5 +48,32 @@ document.addEventListener('DOMContentLoaded', function(){
     calculatefinalprice ();
 
     console.log("T"+totalshoppingcartitem_a9 + " / "+vestquant+" / "+bottlequant);
+
+
+
+    function additem(){
+        console.log('add');
+        //shoppingcartitem_a9 = parseInt(document.getElementById('cartItem').innerHTML);
+        shoppingcartitem_a9++;
+        localStorage.setItem("shoppingcartitem_00",shoppingcartitem_a9);
+        document.getElementById('harnessquanttext').innerHTML = shoppingcartitem_a9; //change number
+  
+        }
+    
+
+    function minusitem(){
+        console.log('minus');
+        if (shoppingcartitem_a9 <= 0){
+            
+         document.getElementsByClassName("class="product1")
+
+        }else{
+            shoppingcartitem_a9--;  
+        }
+        localStorage.setItem("shoppingcartitem_00",shoppingcartitem_a9);
+        document.getElementById('harnessquanttext').innerHTML = shoppingcartitem_a9;
+       
+        }
+        
 });
 

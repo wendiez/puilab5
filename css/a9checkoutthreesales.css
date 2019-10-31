@@ -128,25 +128,6 @@ div {
 }
 
 
-.a9checkoutthreesales .oval {
-  left: 468px ;
-  top: 591px;
-  margin              : auto;
-  height: 55px;
-  width: 55px;
-  background: #B9BF05;
-  border: 4px solid #000000;
-  border-radius: 50%;
-  transition: all 0.2s ease-in-out;
-
-}
-.a9checkoutthreesales .oval:hover {
-  transform           : translate(0, -5px);
-}
-
-.a9checkoutthreesales .oval:active {
-  border: 24px solid #ffffff;
-}
  .a9checkoutthreesales .p1 .product1 .product1titlecopy3 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 221px;
@@ -166,6 +147,27 @@ div {
   text-align          : left;
   line-height         : 33.0px;
 }
+
+.a9checkoutthreesales .p1 .product1 .ovalcircle {
+  left: 468px ;
+  top: 227px;
+  z-index:auto;
+  height: 55px;
+  width: 55px;
+  position            : absolute;
+  background: #0267A6;
+  border: 4px solid #000000;
+  border-radius: 50%;
+  transition: all 0.2s ease-in-out;
+
+}
+.a9checkoutthreesales .p1 .product1 .ovalcircle:hover {
+  transform           : translate(0, -5px);
+}
+
+.a9checkoutthreesales .p1 .product1 .ovalcircle:active {
+  border: 24px solid #ffffff;
+}
  .a9checkoutthreesales .p1 .product1 .starrating {
   background-color    : rgba(255,255,255,0.0);
   top                 : 164px;
@@ -174,8 +176,6 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 463px;
-     
-     
   transform           : rotate(0deg);
 }
  .a9checkoutthreesales .p1 .product1 .starrating .filledstar {
@@ -356,6 +356,29 @@ div {
   text-align          : left;
   line-height         : 33.0px;
 }
+
+.a9checkoutthreesales .p1copy .product1 .ovalpink {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 210px;
+  height              : 55px;
+  width               : 55px;
+  position            : absolute;
+  margin              : 0;
+  left                : 468px;
+  background: #EF98A7;
+  border: 4px solid #000000;
+  border-radius: 50%;
+  transition: all 0.2s ease-in-out;
+
+}
+.a9checkoutthreesales .p1copy .product1 .ovalpink:hover {
+  transform           : translate(0, -5px);
+}
+
+.a9checkoutthreesales .p1copy .product1 .ovalpink:active {
+  border: 24px solid #ffffff;
+}
+
  .a9checkoutthreesales .p1copy .product1 .oval {
   background-color    : rgba(255,255,255,0.0);
   top                 : 210px;
@@ -364,22 +387,10 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 468px;
-     
-     
   transform           : rotate(0deg);
 }
- .a9checkoutthreesales .p1copy .product1 .oval1 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : -227px;
-  height              : 63px;
-  width               : 63px;
-  position            : absolute;
-  margin              : 0;
-  left                : 468px;
-     
-     
-  transform           : rotate(0deg);
-}
+
+
  .a9checkoutthreesales .p1copy .product1 .starrating {
   background-color    : rgba(255,255,255,0.0);
   top                 : 164px;
@@ -452,6 +463,11 @@ div {
      
   transform           : rotate(0deg);
 }
+
+
+
+
+
  .a9checkoutthreesales .p1copy .product1 .product1price2 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 125px;
@@ -1211,6 +1227,32 @@ div {
   text-align          : left;
   line-height         : 33.0px;
 }
+
+
+
+.a9checkoutthreesales .discountprice {
+ background-color    : rgba(255,255,255,0.0);
+ top                 : 1700px;
+ height              : auto;
+ width               : 331px;
+ position            : absolute;
+ margin              : 0;
+ left                : 996px;
+ z-index: auto;
+ visibility: visible;
+    
+ transform           : rotate(0deg);
+ font-family         : "Open Sans", Helvetica, Arial, serif;
+ font-weight         : 700;
+ font-style          : normal;
+ font-size           : 36.0px;
+ color               : rgba(, 0, 0, 1.0);
+ text-align          : left;
+ line-height         : 33.0px;
+}
+
+
+
  .a9checkoutthreesales .product1price1 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 1790px;
