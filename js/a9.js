@@ -59,12 +59,10 @@ document.addEventListener('DOMContentLoaded', function(){
         elementremove.parentNode.removeChild(elementremove);
         removeElement2();
         updatepostion();
+        updatetotalprice2();
         //updateopa();
 
-        document.getElementById("finalpricetext").innerHTML="USD 29.98";
-        document.getElementById("finalpricetext").style.color="red";
-        document.getElementById("totalcheckouttext").innerHTML= "Total 2 items)"
-        document.getElementById("discountprice").style.visibility="hidden";
+   
     }
 
     function removeElement2() {
@@ -88,6 +86,15 @@ document.addEventListener('DOMContentLoaded', function(){
         document.getElementById("p1copy2").style.top="810px";
         document.getElementById("group4copy").style.top="529px";
         document.getElementById("group4copy2").style.top="978px";
+
+    }
+
+    function updatetotalprice2(){
+
+        document.getElementById("finalpricetext").innerHTML="USD 29.98";
+        document.getElementById("finalpricetext").style.color="red";
+        document.getElementById("totalcheckouttext").innerHTML= "Total 2 items)"
+        document.getElementById("discountprice").style.visibility="hidden";
 
     }
 
